@@ -1,0 +1,6 @@
+# requirements for this project
+
+keras
+tensorflow
+numpy
+matplotlib
